@@ -2,6 +2,8 @@
 
 A menu-driven **Travel Planner** built in **C** that models cities and routes as a **graph** (undirected, weighted). It lets you build a travel network interactively, explore possible paths, and compute the shortest route between two cities.
 
+This is a **Mini Project** done in order to implement core concepts learnt from Data Structures and Algorithms (DSA), specifically focusing on graph representations, Depth-First Search (DFS), and Dijkstra's shortest path algorithm.
+
 ## Features
 
 - **Add cities** to the network (case-insensitive city matching)
